@@ -12,7 +12,7 @@ object Demo {
     //Conditional Operators
     if (age < 13 || age > 55) println("Your bus ticket is free") else println("Pay Rs. 100")
 
-    println(3+3<4*5 && 5>7)        //Operator Precedance
+    println(3+3<4*5 && 5>7)         //Operator Precedance
 
     for (i <- 1 to 10) {       //Loops
       println(i)
